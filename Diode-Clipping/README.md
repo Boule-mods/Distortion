@@ -10,6 +10,8 @@ Diode clipping is a sort signal modulation that has the following caracteristics
 
 ## Caracteristics
 
+![Simpleest Clipper](images/Simple_clip.JPG)
+
 ## Polarity
 ## Symetry
 ## Placement
