@@ -4,8 +4,8 @@ Diode clipping is technique that was developped in order to mimic the distortion
 Diode clipping is a sort signal modulation that has the following caracteristics :
 
 '''
-- Limits the maximum and minimum values that the signal can hold
-- Is created in circuits using TVS Diodes and amplifier methods
+  - Limits the maximum and minimum values that the signal can hold
+  - Is created in circuits using TVS Diodes and amplifier methods 
 '''
 
 
