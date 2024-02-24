@@ -1,6 +1,6 @@
 # Diode Clipping
 ## Definition
-Diode clipping is a signal processing technique used in electronic circuits to intentionally introduce distortion to audio signals, simulating the effects of natural clipping that occurs when amplifiers reach their maximum levels. This technique is commonly employed in electric guitar amplifiers and other audio processing equipment to achieve a specific and desirable sound characteristic.
+Diode clipping is a signal processing technique used in electronic circuits to intentionally introduce distortion to audio signals, simulating the effects of natural clipping that occurs when amplifiers reach their maximum levels. Clipping a signal is when you purposely don’t let it reach the nominal maximum that it can. This technique is commonly employed in electric guitar amplifiers and other audio processing equipment to achieve a specific and desirable sound characteristic.
 
 Diode clipping is a sort signal modulation that has the following caracteristics :
 
