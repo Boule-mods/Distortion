@@ -1,7 +1,7 @@
 # Distortion Toolkit Repository
 Welcome to the Distortion Toolkit repository! This comprehensive resource is dedicated to exploring the fundamental characteristics, circuits, electrical components, and schematics associated with audio distortion. Whether you're a seasoned audio engineer, a DIY enthusiast, or just starting to delve into the world of sound processing, this repository aims to be your go-to guide for understanding and implementing distortion effects.
 
-Features:
+## Features:
 ### 1. Introduction to Distortion:
 Learn the basics of distortion, a crucial element in shaping the timbre and character of audio signals.
 Understand how distortion introduces harmonic content, altering the harmonic structure of a waveform.
@@ -24,10 +24,12 @@ Find practical examples and sample projects to experiment with, enhancing your h
 
 ## How to Use This Repository:
 Documentation: Refer to the detailed documentation for comprehensive explanations of distortion concepts, circuit designs, and electrical components.
+Information is divided in diferent directories, see details below.
+
 ### Directories:
 - Diode Clipping : Discover the fundamental caracteristics of diode clipping one of the simplest form of distortion.
-- Circuits : Explore a variety of distortion circuit schematics to understand their inner workings and applications.
-- Compoents : WIP (coming soon detailed analysis of distortion components used in circuits)
+- Circuits       : Explore a variety of distortion circuit schematics to understand their inner workings and applications.
+- Compoents      : WIP (coming soon detailed analysis of distortion components used in circuits)
 
 
 Happy exploring and happy tinkering!
